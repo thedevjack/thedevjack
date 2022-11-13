@@ -1,11 +1,31 @@
 
 ### Olá! Eu sou o Jackson ✋
+
+
+<div align="left">
+  <img hight="200" width="500" alt="GIF" align="left" src="https://github.com/thedevjack/thedevjack/blob/main/lee.gif">
+</div>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
   
 ![Ferramentas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjack&layout=compact&langs_count=16&theme=great-gatsby)
-
-
-
+<br>
 
 ### Rede Sociais ✋
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oeujack/)
@@ -15,9 +35,4 @@
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<div>
-<a href="http://best-anime-moments.tumblr.com/post/44475618745" target="_blank" width="150" ></a>
-</div>
-
+<a href="https://www.buymeacoffee.com/thedevjack" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
