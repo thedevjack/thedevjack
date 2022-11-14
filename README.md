@@ -24,7 +24,7 @@
 
   
 ![Ferramentas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjack&layout=compact&langs_count=16&theme=great-gatsby)
-<br>
+
 
 ### Rede Sociais 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oeujack/)
