@@ -27,7 +27,7 @@
 ![Ferramentas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjack&layout=compact&langs_count=16&theme=great-gatsby)
 <br>
 
-### Rede Sociais ✋
+### Rede Sociais 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oeujack/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-dos-santos-a92937193/)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5Hzpg3bl5Z2vVskvVv4ryp?si=2c0002c9f9694725)
