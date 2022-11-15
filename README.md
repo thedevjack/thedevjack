@@ -1,8 +1,11 @@
-## Olá, eu sou o Jackson
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4371FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4371FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jackson;I'm+22+years+old;I'm+from+Brazil;I+Graduated+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/thedevjack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thedevjack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjack&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thedevjack&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjack&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,6 +31,12 @@
  
   ![Snake animation](https://github.com/thedevjack/thedevjack/blob/output/github-contribution-grid-snake.svg)
   
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thedevjack}/count.svg" /></p> 
+<br>
+</div>
+  
   <br>
   If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
@@ -36,3 +45,4 @@
 
  
 </div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4371FF&height=120&section=footer"/>
