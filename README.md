@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/thedevjack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thedevjack&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjack&layout=compact&langs_count=7&theme=blue-green"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjack&theme=blue-green">
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
