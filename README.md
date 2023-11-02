@@ -29,7 +29,7 @@
   
   
  
-  ![Snake animation](https://github.com/thedevjack/thedevjack/blob/output/github-contribution-grid-snake.svg)
+  Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
