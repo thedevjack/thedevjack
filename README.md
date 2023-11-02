@@ -26,7 +26,6 @@
   <a href="https://www.linkedin.com/in/jackson-dos-santos-a92937193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/playlist/5Hzpg3bl5Z2vVskvVv4ryp?si=2c0002c9f9694725" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
       
- ![Snake animation](https://github.com/{{thedevjack}}/{{thedevjack}}/blob/output/github-contribution-grid-snake.svg)
     
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
