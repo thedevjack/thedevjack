@@ -16,6 +16,7 @@
   <img align="center" alt="Jack-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
   <img align="right" alt="Jack-pic" height="300" style="border-radius:50px;" src="MarioWorld.webp">
+  
 </div>
   
   ##
@@ -28,22 +29,19 @@
   
   
   
- ![Snake animation](https://github.com/thedevjack/thedevjack/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/{thedevjack}/{thedevjack}/blob/output/github-contribution-grid-snake.svg)
   
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thedevjack}/count.svg" /></p> 
 <br>
+    
 </div>
   
   <br>
-  If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+  <img align="right" alt="lee-gif" height="300" style="border-radius:50px;" src="lee.gif">
   <br>
-  
-
-<a href="https://www.buymeacoffee.com/thedevjack" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
  
 </div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4371FF&height=120&section=footer"/>
