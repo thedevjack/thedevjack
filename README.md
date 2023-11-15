@@ -45,6 +45,7 @@
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/thedevjack/thedevjack/output/github-contribution-grid-snake.svg"
+    width="1300"
   />
 </picture>
 
