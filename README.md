@@ -50,7 +50,7 @@
 
   
   <br>
-  <img align="right" alt="lee-gif" height="291" style="border-radius:50px;" src="lee.gif">
+  <img align="right" alt="lee-gif" height="320" width="1300" style="border-radius:50px;" src="lee.gif">
   <br>
  
 </div>
