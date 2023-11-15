@@ -27,7 +27,7 @@
   <a href="https://open.spotify.com/playlist/5Hzpg3bl5Z2vVskvVv4ryp?si=2c0002c9f9694725" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
       
     
-<div align="center">
+
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{{thedevjack}}/count.svg" /></p> 
 <br>
@@ -44,7 +44,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-</div>
+
   
   <br>
   <img align="right" alt="lee-gif" height="291" style="border-radius:50px;" src="lee.gif">
