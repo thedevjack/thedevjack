@@ -49,7 +49,7 @@
   />
 </picture>
 
-  
+  <br>
   <br>
   <img align="right" alt="lee-gif" height="320" width="1300" style="border-radius:50px;" src="lee.gif">
   <br>
